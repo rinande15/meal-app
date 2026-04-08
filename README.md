@@ -31,4 +31,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Github Pages
 
-Check our website:
+Check our website: https://meal-master-app.netlify.app
